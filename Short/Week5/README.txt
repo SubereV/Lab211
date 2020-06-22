@@ -1,1 +1,0 @@
-this folder stores netbeans project of each members.
